@@ -1,8 +1,13 @@
-🎙️ Vaani AI
 
-AI-Powered Multilingual Learning Platform for Language Accessibility
+# 🎙️ Vaani AI
 
-«Vaani AI is a multilingual, voice-enabled educational platform designed to make digital learning more accessible for students who face language and connectivity barriers — with a particular focus on Santali, Hindi, and English.»
+### AI-Powered Multilingual Learning Platform for Language Accessibility
+
+> Making digital education more accessible through **AI, Indian languages, voice interaction, and offline-first technology.**
+
+**🏆 Smart India Hackathon 2026**
+
+🎥 **[Watch Project Demo](https://www.loom.com/share/a347e815e2fd4de58e4a98aa8b144d32)**
 
 ---
 
